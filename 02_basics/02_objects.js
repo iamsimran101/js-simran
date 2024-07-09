@@ -13,3 +13,11 @@ const var3 = {5:"sezal", 6:"suhyal"}
 const var8 = {...var1, ...var2, ...var3}  // the dots are the spread method in js to merge values simply
 console.log(var8);
 
+console.log(Object.entries(var1));  //returns the values of a variable in double array 
+
+
+
+
+
+
+
